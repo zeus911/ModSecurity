@@ -1,11 +1,11 @@
 {
-    "name": "league/php-modsecurity",
+    "name": "phpModSecurity/ModSecurity",
     "description": "PHP port of ModSecurity",
     "keywords": [
         "league",
-        "php-modsecurity"
+        "ModSecurity"
     ],
-    "homepage": "https://github.com/torrentalle/php-modsecurity",
+    "homepage": "https://github.com/phpModSecurity/ModSecurity",
     "license": "MIT",
     "authors": [
         {
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "League\\Skeleton\\": "src"
+            "phpModSecurity\\ModSecurity\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "League\\Skeleton\\Test\\": "tests"
+            "phpModSecurity\\ModSecurity\\Test\\": "tests"
         }
     },
     "extra": {
