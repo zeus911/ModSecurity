@@ -1,17 +1,17 @@
 {
-    "name": "league/:package_name",
-    "description": ":package_description",
+    "name": "league/php-modsecurity",
+    "description": "PHP port of ModSecurity",
     "keywords": [
         "league",
-        ":package_name"
+        "php-modsecurity"
     ],
-    "homepage": "https://github.com/thephpleague/:package_name",
+    "homepage": "https://github.com/torrentalle/php-modsecurity",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Albert Moreno",
+            "email": "albert.moreno.t@gmail.com",
+            "homepage": "https://github.com/torrentalle",
             "role": "Developer"
         }
     ],
